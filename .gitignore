@@ -348,3 +348,14 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# npm dependencies directory
+node_modules/
+
+# linters files
+hint-report/
+.hintrc
+.stylelintrc.json
+
+# instructed to be ignored
+test.md
