@@ -1,23 +1,16 @@
-#container {
-  border: 1px solid red;
+.h5 {
+  font-weight: 300;
 }
 
-.navbar-brand {
-  border: 1px solid red;
+.container li  {
+  list-style: none;
+  border: 1px solid gray;
 }
 
-.navbar-nav {
-  border: 1px solid red;
-  }
-
-  .h5 {
-    font-weight: 300;
-  }
-
-  ul li {
-    list-style: none;
-    border: 1px solid gray;
-  }
+.nav-item {
+  list-style: none;
+  border: none;
+}
 
 .card {
   width: 369px;
