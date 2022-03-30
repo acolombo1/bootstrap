@@ -9,3 +9,16 @@
 .navbar-nav {
   border: 1px solid red;
   }
+
+  .h5 {
+    font-weight: 300;
+  }
+
+  ul li {
+    list-style: none;
+    border: 1px solid gray;
+  }
+
+.card {
+  width: 369px;
+}
