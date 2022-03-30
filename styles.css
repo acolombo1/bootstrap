@@ -1,12 +1,11 @@
-/* #container {
-    border: 1px solid red;
-} */
+#container {
+  border: 1px solid red;
+}
 
 .navbar-brand {
-    border: 1px solid red;
+  border: 1px solid red;
 }
 
-.collapse.navbar-collapse {
-    border: 1px solid red;
-
-}
+.navbar-nav {
+  border: 1px solid red;
+  }
