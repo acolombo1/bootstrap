@@ -1,0 +1,17 @@
+.h5 {
+  font-weight: 300;
+}
+
+.myboxed {
+  list-style: none;
+  border: 1px solid gray;
+}
+
+.nav-item {
+  list-style: none;
+  border: none;
+}
+
+.card {
+  width: 369px;
+}
